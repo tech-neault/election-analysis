@@ -40,6 +40,7 @@ Winning Percentage: 73.8%
 -------------------------
 ```
 From this output, we can clearly see the answers to the questions we've been tasked with analyzing. 
+County Votes by the Numbers
 - A total of 369,711 votes were cast across three counties: Jefferson, Denver, and Arapahoe. Our code included a section to add any additional counties that were found in the data: 
  ```
  if county_name not in county_options:
@@ -49,7 +50,11 @@ However, the three counties were the only counties identified. their breakdowns 
 - Jefferson County: total votes 38,855. Percentage of votes: 10.5%.
 - Denver County: total votes 306,055. Percentage of votes: 82.8%. 
 - Arapahoe County: total votes 24,801. Percentage of votes: 6.7%. 
+
+Largest Turnout
 - We can see that the largest voter turnout was in Denver County with 82.8% of the votes cast there. 
+
+Candidate's Votes by the Numbers 
 - Diana DeGette has won the lion's share of the votes with 272,892, and therefore the popular vote, with 73.8% of voters casting their ballots for her. 
 - Charles Caspter Stockholm has the second highest number of votes, with 23% of the vote share and 85,213 votes total. 
 - Raymon Anthony Doane comes in third with 3.1% of the vote share and 11,606 votes total.
